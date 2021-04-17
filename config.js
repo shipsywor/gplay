@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/gplay',
+    siteUrl: 'https://shipsywor.github.io/',
     gaTrackingId: null,
     trailingSlash: false,
   },
